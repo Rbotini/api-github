@@ -78,5 +78,7 @@ Consumindo a Api do github atraves de input com dados dos usuarios.
 
 #Tela Inicial
 ![tela api 2](https://user-images.githubusercontent.com/38733044/148432903-bcdabaf3-2075-43c9-b7e1-284e377cef99.PNG)
-#tela Com os dados da pesquisa
-![api-rest](https://user-images.githubusercontent.com/38733044/148432924-bce4c757-93f5-4a93-b3ac-510d99c174a4.PNG)
+#tela Com os dados da pesquisa.
+
+
+![tela api](https://user-images.githubusercontent.com/38733044/148433263-a433d4b7-e9c5-4050-bb94-1f01b6fd4be8.PNG)
