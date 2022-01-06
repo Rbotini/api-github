@@ -70,6 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 #Consumindo a Api do Github : https://api.github.com/users/.
+
 Consumindo a Api do github atraves de input com dados dos usuarios.
 
 ##Projeto Finalizado
